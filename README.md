@@ -7,6 +7,33 @@ Scrollable textbox:
     This is a long description of my project.  
     It can include multiple paragraphs, code explanations,
     design decisions, and lessons learned.
+    a
+    a
+    a
+
+
+    a
+    a
+    a
+    a
+    a
+
+    a
+    a
+    a
+    a
+    a
+    a
+    a
+
+    aa
+
+    aa
+    a
+    a
+    a
+
+    a
   </p>
 </div>
 
