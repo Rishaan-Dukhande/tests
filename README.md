@@ -2,48 +2,47 @@
 All tests for portfolios
 Scrollable textbox:
 
-<div class="scroll-box">
+<div style="
+  max-height:150px;
+  overflow-y:auto;
+  padding:10px;
+  border:1px solid #ccc;
+  border-radius:8px;
+  background-color:#f9f9f9;
+  font-size:0.95rem;
+">
   <p>
     This is a long description of my project.  
     It can include multiple paragraphs, code explanations,
     design decisions, and lessons learned.
-    a
-    a
-    a
+    h
+    h
+    h
 
 
-    a
-    a
-    a
-    a
-    a
+    h
+    h
+    h
+    h
+    h
+    h
+    h
+    h
+    h
+    h
+    h
+    h
+    h
+    h
 
-    a
-    a
-    a
-    a
-    a
-    a
-    a
+    h
+    h
+    h
+    h
+  </p>
 
-    aa
-
-    aa
-    a
-    a
-    a
-
-    a
+  <p>
+    You can keep adding content here and it will become scrollable
+    once it exceeds the height.
   </p>
 </div>
-
-.scroll-box {
-  width: 100%;
-  max-height: 150px;     /* controls box height */
-  overflow-y: auto;     /* vertical scrolling */
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  background-color: #f9f9f9;
-  font-size: 0.95rem;
-}
